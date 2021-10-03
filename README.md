@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nta3100
-- 👀 I’m interested in Embedded Systems, Circuit analyst and PCB designing
+- 👀 I’m interested in Embedded Systems, Circuit analyst, Power electronics and PCB designing
 - 🌱 I’m currently learning Electrical Enginering
-- 💞️ I’m looking to collaborate on Embedded system
+- 💞️ I’m looking to collaborate on Embedded systems, Power electronics
 - 📫 How to reach me: You can contact: tuananhnguyen3100@gmail.com
 
 <!---
