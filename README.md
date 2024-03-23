@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nta3100
+- 👋 Hi, I’m @kurooroo
 - 👀 I’m interested in Embedded Systems, Circuit analyst, Power electronics and PCB designing
 - 🌱 I’m currently learning Electrical Enginering
 - 💞️ I’m looking to collaborate on Embedded systems, Power electronics
